@@ -1,0 +1,12 @@
+		project
+
+1. flash screen
+
+2. login page
+
+3. mdi form
+	*menu bar		
+
+4. sql cmds
+
+5. 				
